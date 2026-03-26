@@ -1,3 +1,19 @@
 {
-  "recipes": []
+  "recipes": [
+    {
+      "id": "2943c83f",
+      "name": "Easy Low-Carb One-Pot Dinners",
+      "url": "https://www.eatingwell.com/easy-low-carb-dinner-recipes-you-can-make-in-one-pot-11916491",
+      "platform": "web",
+      "thumbnail": null,
+      "tags": [
+        "keto",
+        "low-carb",
+        "dinner",
+        "one-pot"
+      ],
+      "notes": "Roundup of quick weeknight one-pot keto dinners. Good variety.",
+      "added": "2026-03-26"
+    }
+  ]
 }
